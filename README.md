@@ -21,7 +21,7 @@ Este projeto foi fornecido pela empresa [DIO (Digital Innovation One)](https://w
  - Navegador Web (De sua preferência)
  - Acesso à internet
 ## 🎮 Como Usar
-- Abra o arquivo index.html no seu navegador.  
+- Abra o arquivo index.html no seu navegador ou [clicando aqui](https://edimilsonborges.github.io/piano-game-js/).  
 - Clique nas teclas do piano virtual com o mouse para tocar notas.  
 - Alternativamente, use as teclas do teclado associadas a cada nota.  
 ## 🛠️ Tecnologias utilizadas
