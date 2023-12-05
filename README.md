@@ -32,6 +32,7 @@ Este projeto foi fornecido pela empresa [DIO (Digital Innovation One)](https://w
 - Piano virtual interativo com teclas clicáveis.
 - Suporte ao teclado para tocar notas.
 - Suporte para alterar o volume do som das notas
-- Suporte para esconder ou mostrar as letras das teclas 
+- Suporte para esconder ou mostrar as letras das teclas
+- Design responsivo para uma experiência perfeita em vários dispositivos.
 ## ✒️ Autor
 **Desenvolvedor Full stack** - [Edimilson Borges](https://github.com/EdimilsonBorges)
