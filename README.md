@@ -3,8 +3,7 @@
 ## 📖 Descrição
 O *Piano Game JS* é um jogo de piano simples implementado em HTML, JavaScript e CSS. Os usuários podem tocar diferentes notas musicais clicando nas teclas do piano virtual ou usando o teclado. Divirta-se com este jogo envolvente.
 
-Este projeto foi concebido durante a participação no **[Bootcamp Potência Tech iFood](https://www.dio.me/certificate/98723684/share)**, uma experiência de aprendizado proporcionada por meio de uma bolsa de estudos oferecida pela colaboração entre a renomada empresa [iFood](https://www.ifood.com.br/) e a [DIO (Digital Innovation One)](https://www.dio.me/). Este programa visou o Desenvolvimento de Jogos e representou um desafio técnico valioso, contribuindo significativamente para o aprimoramento das habilidades em programação web dos participantes.
-
+Este projeto foi concebido durante a participação no **[Bootcamp Potência Tech iFood - Desenvolvimento de Jogos](https://www.dio.me/certificate/98723684/share)**, uma experiência de aprendizado proporcionada por meio de uma bolsa de estudos oferecida pela colaboração entre a renomada empresa [iFood](https://www.ifood.com.br/) e a [DIO (Digital Innovation One)](https://www.dio.me/). Este programa visou o Desenvolvimento de Jogos e representou um desafio técnico valioso, contribuindo significativamente para o aprimoramento das habilidades em programação web dos participantes.
 ![Piano game js](https://github.com/EdimilsonBorges/piano-game-js/assets/104403198/7165d162-4d9e-4b99-9494-2e6aeda268c5)
 
 > Status: Em desenvolvimento
